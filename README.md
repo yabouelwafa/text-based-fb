@@ -26,20 +26,20 @@ Text-Based Facebook is a C-based social media simulation that allows users to ma
 1. **Compile the program**:
    - Windows:  
      ```bash
-     gcc -g *.c -o A02.exe
+     gcc -g *.c -o TBF.exe
      ```
    - MacOS:  
      ```bash
-     gcc -g *.c -o A02
+     gcc -g *.c -o TBF
      ```
 2. **Run the executable**:
    - Windows:  
      ```bash
-     ./A02.exe
+     ./TBF.exe
      ```
    - MacOS:  
      ```bash
-     ./A02
+     ./TBF
      ```
 3. Follow the prompts in the Main Menu to interact with the application.
 
